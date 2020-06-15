@@ -73,7 +73,7 @@
     * Visualisation
         * matplotlib
         * seaborn
-        * plotly dash (bientôt :p)
+        * plotly dash
     
     ### Kaggle
     * comprendre les enjeux et les données d'un challenge
@@ -85,3 +85,42 @@
     * GitHub
         + Perso
         + Classroom
+
+    ### Computer Vision
+    * Traîtement de l'image
+        * opencv (color schemes, cropping, resizing)
+        * ImageDataGenerator
+        * NumPy shape
+    * Classification
+        + Haar cascades
+        + CNN
+          - Convolution2D
+          - MaxPooling
+        + Transfer Learning (VGG16)
+
+    ### NLP
+    * Faut que j'me replonge dedans mais y'en a dans le projet du boulot
+
+    ### Cloud
+    * Pipelines Azure
+        + Datasets
+        + Experiments
+        + Estimators
+        + Runs
+        + Environments
+        + Compute Targets
+        + AutoML
+    * Azure Speech (Cognitive Services)
+        + Speech-to-text
+        + Traduction
+
+    ### Gestion de projet
+    * Cadrage
+        + Architecture fonctionnelle
+        + Architecture technique
+        + Retro planning
+    * Trello
+        + User Stories
+        + Liens entre les cartes
+    
+  
