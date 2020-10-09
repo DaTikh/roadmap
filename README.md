@@ -123,4 +123,13 @@
         + User Stories
         + Liens entre les cartes
     
-  
+    ### Développement Web
+    * Node.JS
+        + Architecture serveur
+        + Protocole WebSocket
+        + SDK Azure Cognitive Services
+        + Mise en production dans le cloud Azure
+    * MongoDB
+        + Création d'un cluster et de collections
+        + Librairie mongoose
+    * jQuery
